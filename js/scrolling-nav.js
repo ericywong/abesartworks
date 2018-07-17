@@ -26,8 +26,8 @@
     offset: 54
   });
 
-  // carousel interval
-  $('.carousel').carousel({
-    interval: 1000 * 10
-  });
+  // // carousel interval
+  // $('.carousel').carousel({
+  //   interval: 1000
+  // });
 })(jQuery); // End of use strict
